@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2958797369
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4ee72736cb0b057fcbc0b8915ab5180
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+Dependencies:
+- C:/WeldVR2/OVRAssetBundles/OVRMasterBundle/asset_shader0
